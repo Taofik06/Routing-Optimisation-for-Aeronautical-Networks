@@ -1,5 +1,5 @@
-# Routing-Optimisation-for-Aeronautical-Networks
-Dijkstra and Extended Dijkstra Algorithm were used to solve real-world routing optimization problem for Aeronautical networksaddress: single-objective and multiple-objectives optimization challenges of 216 airplanes trying to access internet from ground stations (Heathrow Airport (LHR) and Newark Liberty International Airport (EWR)) while maximizing the end-to-end transmission rate and minimizing the end-to-end latency. This project is a group assessment of the Search and Optimization course module towards my postgraduate degree
+# Routing-Optimization-for-Aeronautical-Networks
+Dijkstra and Extended Dijkstra Algorithm were used to solve real-world routing optimization problem for Aeronautical networks: single-objective and multiple-objectives optimization challenges of 216 airplanes trying to access internet from ground stations (Heathrow Airport (LHR) and Newark Liberty International Airport (EWR)) while maximizing the end-to-end transmission rate and minimizing the end-to-end latency. This project is a group assessment of the Search and Optimization course module towards my postgraduate degree
 
 OPTIMISATION PROBLEMS
 There are two problems you should address:
